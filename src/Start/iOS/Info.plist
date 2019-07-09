@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>XamAppCenterSample2018</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.fieldnotes.XamAppCenterSample2018</string>
+	<string>jp.co.gxp.experiment.honaka.XamAppCenterSample2018</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
