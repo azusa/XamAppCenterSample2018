@@ -37,7 +37,7 @@ namespace XamAppCenterSample2018.UITests
             await Task.Delay(4000);
             var elements = app.Query(c => c.Marked("translatedText"));
             await Task.Delay(2000);
-            Assert.AreEqual("I go to the office by train every day.", elements.FirstOrDefault().Text);
+            Assert.AreEqual("I take the train to the office every day.", elements.FirstOrDefault().Text);
         }
 
         [Test]
