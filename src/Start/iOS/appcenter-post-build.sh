@@ -10,7 +10,7 @@ set -e
 
 appCenterLoginApiToken=$AppCenterLoginToken # this comes from the build environment variables
 appName="hiroyuki/XamAppCenterSample2018" # 自分のアプリ名に書き換える
-deviceSetName="master" # 自分のデバイスセット名に書き換える
+deviceSetName="iPhone8Plus" # 自分のデバイスセット名に書き換える
 publishedAppFileName="XamAppCenterSample2018.iOS.ipa"
 sourceFileRootDir="$APPCENTER_SOURCE_DIRECTORY/src/Start"
 uiTestProjectName="UITests"
