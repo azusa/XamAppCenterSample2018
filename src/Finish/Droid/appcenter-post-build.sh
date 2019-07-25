@@ -9,7 +9,7 @@ set -e
 # variables
 
 appCenterLoginApiToken=$AppCenterLoginToken # this comes from the build environment variables
-appName="fieldnotes.jp/XamAppCenterSample2018Droid"
+appName="fieldnotes.jp/XamAppCenterSample2018"
 deviceSetName="fieldnotes.jp/my-devices-android"
 publishedAppFileName="com.hiro128777.XamAppCenterSample2018.apk"
 sourceFileRootDir="$APPCENTER_SOURCE_DIRECTORY/src/Finish"
